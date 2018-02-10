@@ -1,5 +1,5 @@
 {
-  "name": "Chat App",
+  "name": "chat_app",
   "version": "1.0.0",
   "description": "Frontend for the chat application",
   "main": "index.js",
@@ -16,6 +16,7 @@
     "url": "https://github.com/sangwoo89118/chat_app.git"
   },
   "dependencies": {
+    "axios": "^0.17.1",
     "babel-polyfill": "^6.26.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
